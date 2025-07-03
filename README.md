@@ -20,7 +20,7 @@ I'm a passionate Web & Game Developer based in Indonesia.
 
 ### 📊 GitHub Stats
 
-![Lyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyonDev&show_icons=true&theme=tokyonight)
+![Lyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyonworks&show_icons=true&theme=tokyonight)
 
 ---
 
