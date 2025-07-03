@@ -27,4 +27,4 @@ I'm a passionate Web & Game Developer based in Indonesia.
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedinmu)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)]((https://www.instagram.com/ilngram))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ilngram)
