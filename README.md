@@ -21,22 +21,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=graywhite" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=graywhite" width="320" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/linkedinmu" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/instagrammu" target="_blank">
+  <a href="https://instagram.com/ilngram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
