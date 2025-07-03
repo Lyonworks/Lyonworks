@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Hello, I'm Lyon
 
-<!--
-**Lyonworks/Lyonworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web & Game Developer based in Indonesia.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: My own Valorant-themed PHP website
+- 🌱 Learning: Laravel, Tailwind CSS, and Game Design
+- 👯 Looking to collaborate on: Game and Web Dev projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Lyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyonDev&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedinmu)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)]((https://www.instagram.com/ilngram))
