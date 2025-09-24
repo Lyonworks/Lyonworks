@@ -28,13 +28,10 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/linkedinmu" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ilngram" target="_blank">
+  <a href="https://instagram.com/luxetlyon" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/username" target="_blank">
+  <a href="https://github.com/Lyonworks" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
