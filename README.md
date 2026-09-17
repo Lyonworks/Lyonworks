@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -33,5 +34,8 @@
   </a>
   <a href="https://github.com/Lyonworks" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/946956547257434142" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
